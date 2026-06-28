@@ -35989,6 +35989,7 @@ const Yz = () => {
         return h.jsx(k2, {
             client: e,
             children: h.jsx(BD, {
+                basename: "/new_ss/",
                 children: h.jsxs(i2, {
                     children: [h.jsx(Uj, {}), h.jsx(xO, {}), h.jsx(DD, {
                         children: h.jsxs(PD, {
